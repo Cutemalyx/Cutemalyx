@@ -48,17 +48,17 @@
 
   ## 𝑺𝒐𝒄𝒊𝒂𝒍 𝒎𝒆𝒅𝒊𝒂
   
-  <div align="center">
-  <a href="[https://www.instagram.com/cutemalyx/]">
+ <div align="center">
+  <a href="https://www.instagram.com/cutemalyx/">
     <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="[https://www.tiktok.com/@cutemalyx]">
+  <a href="https://www.tiktok.com/@cutemalyx">
     <img src="https://img.shields.io/badge/TikTok-D8BFD8?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <a href="[malyx_]">
+  <a href="https://discord.com/users/tu_id_de_usuario">
     <img src="https://img.shields.io/badge/Discord-FFD1DC?style=for-the-badge&logo=discord&logoColor=5865F2">
   </a>
-  <a href="mailto:[malyx04@gmail.com]">
+  <a href="mailto:malyx04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-B5EAD7?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
 </div>
