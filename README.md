@@ -1,17 +1,19 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=e8acc6&height=160&section=header&text=🌸%20𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅@%20𝒂%20𝒎𝒊%20𝒎𝒖𝒏𝒅𝒐%20🌸&fontSize=40&fontColor=ffffff&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=e8acc6&height=160&section=header&text=🌸%20𝑾𝒆𝒍𝒄𝒐𝒎𝒆%20𝒕𝒐%20𝒎𝒚%20𝒘𝒐𝒓𝒍𝒅%20🌸&fontSize=40&fontColor=ffffff&animation=twinkling)
   
   <img src="https://media.tenor.com/CI2bMBnRftEAAAAi/cat-kitten.gif">
 
   ## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
   
-  > *«Aprendiendo a programar con amor y pastelitos»*
+  > *«Learning to program with love and cupcakes»*
   
-  ¡Hola! Soy **Maria Paula** (o _**Malyx**_ en las redes sociales).  
-  Tengo **20 años** y soy estudiante de **Ingeniería de Sistemas y Computación**.  
-  Aunque aún no soy muy buena programando, ¡me encanta aprender! 💻✨  
-  Mi enfoque actual es **Front-End** y **diseño de interfaces**.
+  Hi! I'm **Maria Paula** (or _**Malyx**_ on social networks). 
+  I'm **20 years old** and I'm a **Computer and Systems Engineering** student.
+  Although I'm not very good at programming yet, I love learning! 💻✨ 
+  My current focus is **Front-End** and **Interface Design**.
+
+  > *«SPANISH & ENGLISH»*
 
   ---
 
@@ -31,16 +33,16 @@
 
   ## 𝑯𝒐𝒃𝒃𝒊𝒆𝒔 & 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔
   
-  ⋆˙⟡ — **Ilustración digital y tradicional** <br>
-  ⋆˙⟡ — **Series y peliculas animadas** <br>
-  ⋆˙⟡ — **Diseño de interfaces** <br>
-  ⋆˙⟡ — **Manualidades y bisutería** <br>
-  ⋆˙⟡ — **Videojuegos** <br>
-  ⋆˙⟡ — **Gatos** <br>
+  ⋆˙⟡ — **Digital and traditional illustration** <br>
+  ⋆˙⟡ — **Animated series and movies** <br>
+  ⋆˙⟡ — **Interface design** <br>
+  ⋆˙⟡ — **Crafts and costume jewelry** <br>
+  ⋆˙⟡ — **Video games** <br>
+  ⋆˙⟡ — **Cats** <br>
   <br>
  <img src="https://media.tenor.com/mr9ZTxhFxVAAAAAj/annoying-dog-undertale.gif" width="60" height="50">
 
-  *Mi juego favorito es **Undertale**!* ⸜(｡˃ ᵕ ˂ )⸝♡
+  *My favorite game is **Undertale**!* ⸜(｡˃ ᵕ ˂ )⸝♡
   
  
   
