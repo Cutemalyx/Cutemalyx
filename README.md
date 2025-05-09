@@ -57,7 +57,7 @@
   <a href="https://www.tiktok.com/@cutemalyx">
     <img src="https://img.shields.io/badge/TikTok-D8BFD8?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <a href="https://discord.com/users/tu_id_de_usuario">
+  <a href="https://discord.gg/xvk9jV6YuC">
     <img src="https://img.shields.io/badge/Discord-FFD1DC?style=for-the-badge&logo=discord&logoColor=5865F2">
   </a>
   <a href="mailto:malyx04@gmail.com">
@@ -67,6 +67,6 @@
 
   ---
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=e8acc6&height=100&section=footer&text=𝑮𝒓𝒂𝒄𝒊𝒂𝒔%20𝒑𝒐𝒓%20𝒑𝒂𝒔𝒂𝒓𝒕𝒆%20✨&fontSize=30&fontColor=ffffff&animation=fadeIn)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=e8acc6&height=100&section=footer&text=𝙏𝙝𝙖𝙣𝙠𝙨%20𝙛𝙤𝙧%𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜%20✨&fontSize=30&fontColor=ffffff&animation=fadeIn)
   
 </div>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
