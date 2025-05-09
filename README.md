@@ -8,9 +8,9 @@
   
   > *«Learning to program with love and cupcakes»*
   
-  Hi! I'm **Maria Paula** (or _**Malyx**_ on social networks). 
+  Hi! I'm **Maria Paula** (or _**Malyx**_ on social networks).
   I'm **20 years old** and I'm a **Computer and Systems Engineering** student.
-  Although I'm not very good at programming yet, I love learning! 💻✨ 
+  Although I'm not very good at programming yet, I love learning! 💻✨
   My current focus is **Front-End** and **Interface Design**.
 
   > *«SPANISH & ENGLISH»*
@@ -67,6 +67,6 @@
 
   ---
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=e8acc6&height=100&section=footer&text=𝙏𝙝𝙖𝙣𝙠𝙨%20𝙛𝙤𝙧%𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜%20✨&fontSize=30&fontColor=ffffff&animation=fadeIn)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=e8acc6&height=100&section=footer&text=𝙏𝙝𝙖𝙣𝙠𝙨%20𝙛𝙤𝙧%20𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜%20✨&fontSize=30&fontColor=ffffff&animation=fadeIn)
   
 </div>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
