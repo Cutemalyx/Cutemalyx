@@ -9,7 +9,7 @@
   > *«Learning to program with love and cupcakes»*
   
   Hi! I'm **Maria Paula** (or _**Malyx**_ on social networks).
-  I'm **20 years old** and I'm a **Computer and Systems Engineering** student.
+  I'm **21 years old** and I'm a **Computer and Systems Engineering** student.
   Although I'm not very good at programming yet, I love learning! 💻✨
   My current focus is **Front-End** and **Interface Design**.
 
