@@ -9,7 +9,7 @@
   > *«Learning to program with love and cupcakes»*
   
   Hi! I'm **Maria Paula** (or _**Malyx**_ on social networks).
-  I'm **21 years old** and I'm a **Computer and Systems Engineering** student.
+  I'm **21 years old** and I'm a **Computer and Systems Engineering**.
   Although I'm not very good at programming yet, I love learning! 💻✨
   My current focus is **Front-End** and **Interface Design**.
 
@@ -36,7 +36,6 @@
   ⋆˙⟡ — **Digital and traditional illustration** <br>
   ⋆˙⟡ — **Animated series and movies** <br>
   ⋆˙⟡ — **Interface design** <br>
-  ⋆˙⟡ — **Crafts and costume jewelry** <br>
   ⋆˙⟡ — **Video games** <br>
   ⋆˙⟡ — **Cats** <br>
   <br>
@@ -60,7 +59,7 @@
   <a href="https://discord.gg/xvk9jV6YuC">
     <img src="https://img.shields.io/badge/Discord-FFD1DC?style=for-the-badge&logo=discord&logoColor=5865F2">
   </a>
-  <a href="mailto:malyx04@gmail.com">
+  <a href="mailto:mariapaularodriguez90@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-B5EAD7?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
 </div>
